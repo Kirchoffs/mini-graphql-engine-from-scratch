@@ -1,0 +1,24 @@
+{
+  "folders": [
+    {
+      "name": "Repository",
+      "path": ".."
+    },
+    {
+      "name": "Stage 01",
+      "path": "../stages/stage-01/mini-graphql-engine"
+    }
+  ],
+  "settings": {
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.import.maven.enabled": true,
+    "[kotlin]": {
+      "editor.suggestOnTriggerCharacters": true,
+      "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": false
+      }
+    }
+  }
+}
